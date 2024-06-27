@@ -8,13 +8,19 @@
 
 随机数生成迷宫+DFS查找路径
 
-![随机数生成迷宫+DFS查找路径](..\project\picture\随机数生成迷宫+DFS查找路径.jpg)
+![随机数生成迷宫+DFS查找路径]([Maze-Visualization/picture/随机数生成迷宫+DFS查找路径.jpg at main · Feng-Shiyan/Maze-Visualization (github.com)](https://github.com/Feng-Shiyan/Maze-Visualization/blob/main/picture/随机数生成迷宫%2BDFS查找路径.jpg)
+
+
 
 
 
 DFS生成迷宫+DFS查找
 
-![DFS生成迷宫+DFS查找2](.\picture\DFS生成迷宫+DFS查找2.jpg)
+
+
+![DFS生成迷宫+DFS查找2]([Maze-Visualization/picture/DFS生成迷宫+DFS查找2.jpg at main · Feng-Shiyan/Maze-Visualization (github.com)](https://github.com/Feng-Shiyan/Maze-Visualization/blob/main/picture/DFS生成迷宫%2BDFS查找2.jpg)
+
+
 
 
 
